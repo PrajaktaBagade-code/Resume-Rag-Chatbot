@@ -1,6 +1,6 @@
 # Step 1: Load Resume PDF
 
-loader = PyPDFLoader("resume/resume praj.pdf")
+loader = PyPDFLoader("resume/ sample_resume.pdf")
 
 documents = loader.load()
 
