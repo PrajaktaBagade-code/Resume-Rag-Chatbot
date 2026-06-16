@@ -1,5 +1,37 @@
+# Python cache
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables
 .env
+
+# Chroma Vector Database
 chroma_db/
+
+# VS Code
 .vscode/
+
+# PyCharm
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Log files
+*.log
